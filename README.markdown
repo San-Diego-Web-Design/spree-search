@@ -1,7 +1,7 @@
 # Search
 
 This is an extension that adds sort and search support for products inside Spree.
-This extension works on edge-version of Spree.
+This extension works only with Spree 0.9.x.
 
 ## Install
       script/extension install git://github.com/romul/spree-search.git
